@@ -35,5 +35,5 @@ if os.path.isdir(folderpath):
 else:
     print("No such Path")
 
-#folderpath = r'E:\Snapshots'
+
 
